@@ -25,6 +25,10 @@ jobs:
 
       - name: Install SDK packages
         run: |
+          SDK="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
+          SD="$SDK/cmdline-tools/latest/bin"
+          [ -x "$SD/sdkmanager" ] || SD="$SDK/cmdline-tools/16.0/bin"
+          export PATH="$SD:$PATH"
           yes | sdkmanager --licenses
           sdkmanager "platforms;android-36" "build-tools;37.0.0" "ndk;30.0.14904198" "cmake;3.22.1"
 
