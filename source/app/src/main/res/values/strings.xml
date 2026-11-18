@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rony VPN</string>
+    <string name="tagline">Free • No logs • No account • No ads</string>
+    <string name="connect">Connect</string>
+    <string name="fastest_server">⚡ Fastest Server</string>
+    <string name="servers_title">Servers (free • VPN Gate)</string>
+    <string name="killswitch_title">Kill switch</string>
+    <string name="killswitch_body">While connected, no app can bypass the tunnel and the tunnel stays up across reconnects. For a full system-level kill switch, also enable “Always-on VPN” + “Block connections without VPN” in Android Settings.</string>
+    <string name="killswitch_open_settings">Open Android VPN settings</string>
+    <string name="free_servers_warning">Free volunteer servers (VPN Gate). Speeds vary and servers can disappear. The server operator can see connection metadata (destination IPs); HTTPS traffic stays encrypted end-to-end. This app itself collects nothing.</string>
+</resources>
