@@ -1,0 +1,68 @@
+[
+  {
+    "id": "jp-1",
+    "country": "Japan",
+    "short": "JP",
+    "flag": "🇯🇵",
+    "file": "jp-1.ovpn",
+    "host": "vpn724833364",
+    "ip": "118.240.250.95",
+    "proto": "udp",
+    "port": 1343
+  },
+  {
+    "id": "jp-2",
+    "country": "Japan",
+    "short": "JP",
+    "flag": "🇯🇵",
+    "file": "jp-2.ovpn",
+    "host": "vpn898388129",
+    "ip": "39.111.215.189",
+    "proto": "udp",
+    "port": 1195
+  },
+  {
+    "id": "jp-3",
+    "country": "Japan",
+    "short": "JP",
+    "flag": "🇯🇵",
+    "file": "jp-3.ovpn",
+    "host": "vpn270991769",
+    "ip": "131.147.158.37",
+    "proto": "udp",
+    "port": 1831
+  },
+  {
+    "id": "kr-1",
+    "country": "Korea Republic of",
+    "short": "KR",
+    "flag": "🇰🇷",
+    "file": "kr-1.ovpn",
+    "host": "vpn737724616",
+    "ip": "175.199.193.131",
+    "proto": "udp",
+    "port": 1419
+  },
+  {
+    "id": "kr-2",
+    "country": "Korea Republic of",
+    "short": "KR",
+    "flag": "🇰🇷",
+    "file": "kr-2.ovpn",
+    "host": "vpn446015046",
+    "ip": "59.10.232.165",
+    "proto": "tcp",
+    "port": 1755
+  },
+  {
+    "id": "kr-3",
+    "country": "Korea Republic of",
+    "short": "KR",
+    "flag": "🇰🇷",
+    "file": "kr-3.ovpn",
+    "host": "vpn532221228",
+    "ip": "110.15.34.238",
+    "proto": "tcp",
+    "port": 1930
+  }
+]
